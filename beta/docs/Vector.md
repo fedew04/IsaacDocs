@@ -66,7 +66,7 @@ Build a <a class="el" href="class_vector.html">Vector</a> from an angle, returns
 ##### :fontawesome-solid-code: Example Code {: .subHeader .example_code }
 This code returns a vector that has a 45 degree angle
 ```cpp 
-local vec = Vector.GetAngleDegrees(45)) --vec is now Vector(0.70711,0.70711)
+local vec = Vector.FromAngle(45) --vec is now Vector(0.70711,0.70711)
 
 ```
 
