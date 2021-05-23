@@ -6,6 +6,10 @@ To make a new mod, you have to create a new folder, named as the mod you want to
 ```lua
 C:\Users\[YOURUSERNAME]\Documents\My Games\Binding of Isaac Afterbirth+ Mods
 ```
+If you're on Repentance, create it in this directory:
+```lua
+C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth\mods
+```
 Then, you have to create a new `:::cpp main.lua` file in the newly created folder. This file can then be used to contain the logic behind your mod.
 
 ### :fontawesome-brands-linux: For Linux {: .subHeader .notes }
